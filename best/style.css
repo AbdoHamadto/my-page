@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+    background-color: #121212;
+}
+
+button
+{
+    cursor: pointer;
+    padding: 60px;
+    background-color: #121212;
+    border: 0px;
+}
+
+img
+{
+    width: 125%;
+}
+
+span
+{
+    font-size: 130%;
+}
